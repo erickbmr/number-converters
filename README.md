@@ -1,5 +1,7 @@
 # Number converters
     Converters in python
     
-    * binary to decimal
-    * decimal to binary
+- [x] binary to decimal
+- [x] decimal to binary
+- [ ] binary to hexadecimal
+- [ ] hexadecimal to binary
