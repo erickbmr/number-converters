@@ -1,4 +1,4 @@
-inp_number = "1000000"
+inp_number = "1001001011"
 
 #check if there are only numbers
 try:
@@ -25,4 +25,8 @@ if error:
     print("please type only 0 or 1")
     exit(0)
 
-print(binary_number)
+
+#calculate the hexadecimal number using hex()
+hexa_number = hex(int(inp_number, 2))
+
+print(hexa_number)
