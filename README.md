@@ -1,2 +1,5 @@
-# number-converters
-number converters in python
+# Number converters
+    Converters in python
+    
+    * binary to decimal
+    * decimal to binary
